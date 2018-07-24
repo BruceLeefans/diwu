@@ -1,0 +1,15 @@
+/*
+* @Author: a8717
+* @Date:   2018-04-10 10:40:21
+* @Last Modified by:   a8717
+* @Last Modified time: 2018-04-10 12:36:15
+*/
+p{
+/* 	color: blue;
+	font-size: 100px;
+	font-family: 隶书;
+	font-style: italic;
+	font-weight: 800; */
+	font: bold italic 200px "宋体";
+	color: red;
+}
